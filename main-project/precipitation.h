@@ -1,11 +1,12 @@
 #pragma once
 #include <string>
+using namespace std;
 
-struct Precipitation
-{
+struct RainRecord {
     int day;
     int month;
     double amount;
-    std::string type;
+    string type;
 };
+
 
