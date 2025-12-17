@@ -8,5 +8,3 @@ struct RainRecord {
     double amount;
     string type;
 };
-
-
