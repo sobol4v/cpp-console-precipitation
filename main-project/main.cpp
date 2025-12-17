@@ -2,6 +2,7 @@
 #include <vector>
 #include "precipitation.h"
 #include "file_reader.h"
+#include "constants.h"
 
 using namespace std;
 
